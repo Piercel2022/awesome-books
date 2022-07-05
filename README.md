@@ -42,6 +42,7 @@ cd awesome-books
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+Feel free to check the https://github.com/Piercel2022/awesome-books/issues
 
 ## Show your support
 
