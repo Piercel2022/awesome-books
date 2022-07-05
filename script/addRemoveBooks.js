@@ -14,8 +14,7 @@ class Book {
     const book = document.createElement('div');
     book.classList.add('book-dynamic');
     newBook.bookId = id;
-    book.innerHTML = 
-      ` <h4 class = "title-author">"${newBook.bookTitle}" by ${newBook.bookAuthor}</h4>
+    book.innerHTML = ` <h4 class = "title-author">"${newBook.bookTitle}" by ${newBook.bookAuthor}</h4>
         <button class="remove-button remove-btn" id="${id}">Remove</button><br>
       `;
     bookDiv.appendChild(book);
