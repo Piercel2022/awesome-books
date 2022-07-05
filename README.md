@@ -35,8 +35,7 @@ cd awesome-books
 - LinkedIn: [ernestlasten](https://mw.linkedin.com/in/ernest-lasten-613990197)
 
 👤 **Pierre C**
-
-- GitHub https://github.com/Piercel2022
+-GitHub https://github.com/Piercel2022
 - Twitter https://twitter.com/pier_celestin
 - LinkedIn https://www.linkedin.com/in/piercelestinmax/
 
