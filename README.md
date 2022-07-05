@@ -3,7 +3,7 @@
 # Project Name : AWESOME BOOK WEBSITE
 
 > Description the project.
-
+This project is a book website. It built in HTML, CSS and JavaScript and main functionalities are adding and removing books. The information is then retained in local storage.
 
 ## Built With
 
