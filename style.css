@@ -1,4 +1,23 @@
 * {
   padding: 0;
-  margin: 0;
+}
+#display-books{
+  display: flex;
+  flex-direction: column;
+}
+
+.book-dynamic{
+  display: flex;
+  
+  align-items: center;
+  width: 35%;
+  height: auto;
+  border: 1px solid grey;
+}
+
+.remove-btn{
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  height: 1.5rem;
 }
