@@ -9,7 +9,7 @@ This project is a book website. It built in HTML, CSS and JavaScript and main fu
 
 - HTML AND CSS
 - JAVASCRIPT
-- Linters: 
+- Linters: Webhint, Lighthouse, Stylelint
 
 
 ## Getting Started
@@ -24,7 +24,7 @@ cd awesome-books
 3) - Open the directory in Vscode 
 
 ## In order to access this website on line:
- https://piercel2022.github.io/awesome-books/
+
     
 ## Authors
 
@@ -35,7 +35,7 @@ cd awesome-books
 - LinkedIn: [ernestlasten](https://mw.linkedin.com/in/ernest-lasten-613990197)
 
 👤 **Pierre C**
--GitHub https://github.com/Piercel2022
+- GitHub https://github.com/Piercel2022
 - Twitter https://twitter.com/pier_celestin
 - LinkedIn https://www.linkedin.com/in/piercelestinmax/
 
