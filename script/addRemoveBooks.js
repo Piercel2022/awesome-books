@@ -119,5 +119,3 @@ function Navigation() {
     document.getElementById('contact').style.display = 'block';
   });
 }
-
-Navigation();
