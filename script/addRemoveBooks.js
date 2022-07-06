@@ -87,7 +87,3 @@ document.querySelector('.form-book').addEventListener('submit', (e) => {
 });
 
 document.addEventListener('DOMContentLoaded', Book.displayBooks);
-
-const list = document.getElementById('list-display');
-const addBookInList = document.getElementById('add-new-display');
-const contact = document.getElementById('contact-display');
